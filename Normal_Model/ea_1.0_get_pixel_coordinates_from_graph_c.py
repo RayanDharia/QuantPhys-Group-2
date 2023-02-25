@@ -1,4 +1,7 @@
 #!/usr/bin/python
+#Eiko Alzamora
+#v1.0
+#Fri Feb 24 11:53:36 PM EST 2023
 
 import sys
 import os.path
