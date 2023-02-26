@@ -106,7 +106,7 @@ print(f"The input file had {len(arrX)} points.\nThe new file {txtFileOut} has {l
 
 plt.plot(arrX, arrY ,'bo',arrNX,arrNY,'r' )
   
-plt.xlabel('Time')
+plt.xlabel('Time (hours)')
 plt.ylabel('Concentration')
 plt.title('Normal Model for Glucose Homeostasis')
 plt.show()
