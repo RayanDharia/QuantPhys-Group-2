@@ -92,7 +92,7 @@ plt.text(22, -3, 'pA2='+str(parA2) )
 plt.text(22, -4, 'pI1='+str(parI1) )
 plt.legend(['Graph Glucose', 'Graph Glucagon','Model Insulin','Graph Insulin' ])
 plt.xlabel('Time after the start of the meal (min)')
-plt.ylabel('Concentration (mg/dl)')
+plt.ylabel('Concentration (microU/ml)')
 plt.title('Blood Sugar Pathway in Anorexic Patients')
 plt.grid(visible=True, which='major', axis='both')
 
